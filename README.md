@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="enerboard" src="https://github.com/marvhock/enerboard-core/blob/main/enerboard.png?raw=true">
+</p>
+
 # enerboard Core
 
 This is one of three Repositories for the EnerBoard Prototype
